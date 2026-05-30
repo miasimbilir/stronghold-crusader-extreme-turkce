@@ -71,4 +71,10 @@ Oyun içi "?" yardımının ayrı dosyalarda (`help\crusader_help.hlp`) olduğu 
 
 ---
 
+## 7. Hazırlanış
+
+Bu yama yapay zekâ ile hazırlanmıştır (Claude Code).
+
+---
+
 *Bu rapor yamanın teknik özetidir. Kurulum için `README.md` dosyasına bakınız.*

@@ -82,6 +82,10 @@ Bu, **resmî olmayan bir hayran çevirisidir**. Firefly Studios ile bir ilişkis
 
 ---
 
+## 🤖 Hazırlanış
+
+Bu yama yapay zekâ ile hazırlanmıştır (Claude Code).
+
 ## 🙏 Teşekkür
 
 Çeviri ve teknik çözümler topluluk için hazırlanmıştır. Oyunun kendisi için **Firefly Studios**'a teşekkürler.
